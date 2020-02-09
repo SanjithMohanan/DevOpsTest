@@ -1,14 +1,11 @@
 package devopspackage;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class HelloClassTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-
+  @Test
+  public void testableTest() {
+    System.out.println("Test  implemented : ");
+  }
 }

@@ -1,0 +1,7 @@
+<suite name="testXML">
+	<test name="testngTest">
+		<classes>
+			<class name="devopspackage.HelloClassTest" />
+		</classes>
+	</test>
+</suite>
